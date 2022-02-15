@@ -14,10 +14,13 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154057897-f94bcdd1-2843-4ff9-b846-fdf3e9964345.png)
 
-далее в edit settings - > Security
+далее в edit settings - > Security - > Accept
 
 |Option   | Description    |
 | - |-    |
 | Promiscuous mode  |  Виртуальный коммутатор пересылает все кадры на виртуальную машину в соответствии с активной политикой VLAN для порта, к которому подключен сетевой адаптер ВМ.   |
 | MAC address changes  |  Если гостевая ОС изменяет MAC-адрес виртуальной машины на значение, отличное от MAC-адреса сетевого адаптера виртуальной машины, коммутатор разрешает передачу кадров на новый адрес.   |
 | Forged transmits  |  Коммутатор не выполняет фильтрацию и разрешает все исходящие кадры.   |
+
+![image](https://user-images.githubusercontent.com/79700810/154059357-af6994d9-3749-49ea-aff9-f525df4c8a52.png)
+
