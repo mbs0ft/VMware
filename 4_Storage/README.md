@@ -21,26 +21,27 @@
 
 Автоматическое освоение пространства
 
+![image](https://user-images.githubusercontent.com/79700810/154065528-eabb8c27-f614-4be9-9daf-44f11f1cb9b3.png)
+
 ## Создание datastore 
 Для развертывания виртуальных машин необходима система хранения данных
 одним из таких вариантов может быть локальное хранилице 
 переходим на вкладку Storage - > New datastore - > Create new VFMS datastore
-
-![image](https://user-images.githubusercontent.com/79700810/154065528-eabb8c27-f614-4be9-9daf-44f11f1cb9b3.png)
+![image](https://user-images.githubusercontent.com/79700810/154067078-0c1c6292-6158-4d52-b32e-1a3a651c504c.png)
 
 Задаем имя хранилища данных и выбираем диск на котором будут распологаться все виртуальные машины
 
-![image](https://user-images.githubusercontent.com/79700810/154067078-0c1c6292-6158-4d52-b32e-1a3a651c504c.png)
+![image](https://user-images.githubusercontent.com/79700810/154067115-8232805a-d8dd-41bb-9bf5-16a959f0f316.png)
 
 Указываем тип и колличество места которое будет размечено для хранения
 
-![image](https://user-images.githubusercontent.com/79700810/154067115-8232805a-d8dd-41bb-9bf5-16a959f0f316.png)
+![image](https://user-images.githubusercontent.com/79700810/154067151-b03a8fe5-fde6-4eda-b828-f239f4b883de.png)
 
 Проверяем конфигурацию после чего ESXi предложит отформатировать все место
 
-![image](https://user-images.githubusercontent.com/79700810/154067151-b03a8fe5-fde6-4eda-b828-f239f4b883de.png)
-
 ![image](https://user-images.githubusercontent.com/79700810/154067176-ac72253e-df9b-459b-be2b-5a3c0e8c4c1f.png)
+
+
 
 ## Загрузка на datastore 
 Одним из вариантов хранения iso файлов для установки операционных систем на виртуальные машине может являтся хранения на локальном datastore
@@ -52,6 +53,8 @@
 переходим в деректорию затем upload после чего выбираем зарание скаченный iso файл
 
 ![image](https://user-images.githubusercontent.com/79700810/154091734-93577547-65ca-4d96-a59f-4d8238fb293c.png)
+
+Внижней части экрана будет прогресс бар в котором будет указано в процентах колличество загрузки
 
 ![image](https://user-images.githubusercontent.com/79700810/154091825-8b7f9ed1-94ca-44fb-874c-2c4266c959b5.png)
 
