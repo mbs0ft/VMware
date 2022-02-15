@@ -1,6 +1,9 @@
 # ВВЕДЕНИЕ
 
 # Цель
+1) Настройка vSwitch
+2) Создание Стандарт свитч
+3) Создание порт группы
 
 ## Виртуальная сеть
 
@@ -38,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154063180-4ff1ce40-8e73-4be0-bdd8-6cc24309976a.png)
 
+## Порт группа
 для подключения к виртуальным машинам standard virtual (vSW1) необходимо создать Port groups - > Add port groups
-
 
 ![image](https://user-images.githubusercontent.com/79700810/154063942-9566bf69-f968-4809-898d-8fd9aaa7b395.png)
