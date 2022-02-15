@@ -28,7 +28,15 @@
 
 
 ## Стандарт свитч
+### [doc](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-350344DE-483A-42ED-B0E2-C811EE927D59.html)
 
 Ключевой компонент виртуальной сетевой инфраструктуры vSphere - vSwitch, виртуальный L2 коммутатор.
 
- 
+В случае необходимости создания изолированого сегмента сети без для подключения к виртуальным машинам можно создать standard virtual switch без подключенного uplink
+
+Переходим в Networking - > virtual swiches - > add standard virtual switc
+
+![image](https://user-images.githubusercontent.com/79700810/154063180-4ff1ce40-8e73-4be0-bdd8-6cc24309976a.png)
+
+
+
