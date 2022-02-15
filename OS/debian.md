@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154132523-1a1355ba-96ae-41c8-b065-fdf536c2f787.png)
 
-При включении виртуальный машины выбираем install 
+При включении виртуальный машины выбираем install в этом слачае будет процесс установки без графики
 
 ![image](https://user-images.githubusercontent.com/79700810/154106534-58632cba-d085-4dff-8f13-1d15d48fc7d9.png)
 
@@ -19,42 +19,43 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154106603-5364788b-32b3-4848-b7d1-f74a1976ab1c.png)
 
-Задаем имя операционной системы
+Выбираем лакализацию от которой дальше будет зависить спизок зон времяни 
 
 ![image](https://user-images.githubusercontent.com/79700810/154106645-83a5510a-c484-4593-a79a-70377faac10f.png)
+Задаем имя операционной системы
 
-Так же можно указать доменный суффикс при необходимости
 
 ![image](https://user-images.githubusercontent.com/79700810/154106924-21441483-6ab5-4b8c-9fd1-a920ed61fccf.png)
+Так же можно указать доменный суффикс при необходимости
 
-Задаем пароль для пользователя root
 
 ![image](https://user-images.githubusercontent.com/79700810/154106952-05e046ff-d6a5-4329-81a0-0e74d80e9c5b.png)
+Задаем пароль для пользователя root
 
-далее его необходимо подтвердить и ввести второй раз
 
 ![image](https://user-images.githubusercontent.com/79700810/154106982-e2aad7ad-7b44-49bd-81dc-86e2b476908c.png)
+далее его необходимо подтвердить и ввести второй раз
 
-Создаем пользоватемя и можем указать его полное имя для описания
 
 ![image](https://user-images.githubusercontent.com/79700810/154107000-d3be36e0-9ec5-4ec1-85f6-5f306dbbdba5.png)
+Создаем пользоватемя и можем указать его полное имя для описания
 
-Задаем имя пользователья
 
 ![image](https://user-images.githubusercontent.com/79700810/154107044-54dc2d23-51de-4df0-bb9f-bdd81127bde6.png)
+Задаем имя пользователья
 
-Задаем пароль для пользователя
 
 ![image](https://user-images.githubusercontent.com/79700810/154107074-2e36a29e-6a26-4dd4-8234-d721b8572982.png)
-далее его необходимо подтвердить и ввести второй раз
+Задаем пароль для пользователя
+
 
 
 ![image](https://user-images.githubusercontent.com/79700810/154107102-4bf34a6f-7cca-413a-89a5-a8424a5ffe43.png)
+далее его необходимо подтвердить и ввести второй раз
 
-Выбираем време
 
 ![image](https://user-images.githubusercontent.com/79700810/154107134-2b296dbf-db82-44f6-a088-2703e0df9b55.png)
-
+Выбираем време
 выбираем диск на который будет установленна операционная система
 
 ![image](https://user-images.githubusercontent.com/79700810/154107165-f98834fb-03a3-463d-8a30-ec3cef2e03f0.png)
