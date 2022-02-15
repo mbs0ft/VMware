@@ -1,10 +1,15 @@
-# ВВЕДЕНИЕ:
+# ВВЕДЕНИЕ
 
 Это первая лабораторная работа от  VMware vSphere: установка, настройка, управление — лабораторное руководство . Установлю гипервизор ESXi с нуля.
 
 Все лабораторные работы могут быть выполнены с использованием вложенной виртуализации или реального оборудования
 
-ДО УСТНОВКИ:
+# Цель
+1) регистрация на аккауна my VMware
+2) Скачивание дестребутива 
+3) Установка ESXi 
+
+## ДО УСТНОВКИ:
 
 Убедитесь будет ли ваше оборудование поддерживать ESXi это необходима для того что бы корректно работали драйверы и была возможность для обращения за поддержкой на сайт VMware
 https://www.vmware.com/resources/compatibility/search.php
@@ -25,7 +30,7 @@ https://customerconnect.vmware.com/dashboard
 
 ![image](https://user-images.githubusercontent.com/79700810/154010574-73024c20-32eb-44f7-86ca-ab6c696ee2e8.png)
 
-# VMware vSphere Documentation
+##№ VMware vSphere Documentation
 
 Ознакомтесь с базовой документацие на сайте https://docs.vmware.com/en/VMware-vSphere/index.html
 
@@ -33,7 +38,7 @@ https://customerconnect.vmware.com/dashboard
 
 также в разделе VMware vSphere 7.0 Release Notes вы можете ознакомится с Before You Begin
 
-# Установка
+## Установка
 
 Записываете ISO файл на поситель или подгружаете на сервер через удаленный менеджмент connect virtual media
 
