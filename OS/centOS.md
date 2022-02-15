@@ -46,10 +46,13 @@
 ![image](https://user-images.githubusercontent.com/79700810/154104925-69779d5b-851a-4f7f-a699-df0823217105.png)
 
 в разделе USER SETINGS - > User Creation можно создать допалнительного пользователя без прав root
-задаем имя и пароль в левом верхнем углу выбираем Done
 
 ![image](https://user-images.githubusercontent.com/79700810/154104627-a59b62ff-a2b3-4ebd-8700-6a285b44e9df.png)
 
+задаем имя и пароль в левом верхнем углу выбираем Done
+
 ![image](https://user-images.githubusercontent.com/79700810/154105020-daf330ea-4db7-4a53-a9bd-f042dcf705bb.png)
+
+По оканчении установки необходимо перезагрузить операционную систему
 
 ![image](https://user-images.githubusercontent.com/79700810/154106729-41e16c2d-9ac5-4a39-bf6a-7b024860c822.png)
