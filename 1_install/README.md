@@ -86,4 +86,5 @@ ESXi применяет требования к паролю для доступ
 
 После загрузки вы увидите желто серый экран DCUI — Direct Console User Interface
 
+![image](https://user-images.githubusercontent.com/79700810/154025506-15b402bd-2daf-452f-bc0d-19422776a02c.png)
 
