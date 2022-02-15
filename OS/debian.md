@@ -15,11 +15,13 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154106564-17c27743-0287-4e90-9129-d688ba6f1f21.png)
 
-Выбираем раскладку
+
+Выбираем лакализацию от которой дальше будет зависить спизок зон времяни 
+
 
 ![image](https://user-images.githubusercontent.com/79700810/154106603-5364788b-32b3-4848-b7d1-f74a1976ab1c.png)
 
-Выбираем лакализацию от которой дальше будет зависить спизок зон времяни 
+Выбираем раскладку
 
 ![image](https://user-images.githubusercontent.com/79700810/154106645-83a5510a-c484-4593-a79a-70377faac10f.png)
 Задаем имя операционной системы
@@ -56,25 +58,28 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154107134-2b296dbf-db82-44f6-a088-2703e0df9b55.png)
 Выбираем време
-выбираем диск на который будет установленна операционная система
+
 
 ![image](https://user-images.githubusercontent.com/79700810/154107165-f98834fb-03a3-463d-8a30-ec3cef2e03f0.png)
 
-????
+Указываем Менеджер логических томов LVM для разметки партиций
 
 ![image](https://user-images.githubusercontent.com/79700810/154107227-2982a67d-a78e-4571-bce6-66e71c793296.png)
+выбираем диск на который будет установленна операционная система
 
-Соглашаемся с тем что диск будет отфарматирован и на нем будут созданы все необходимые партиции
 
 ![image](https://user-images.githubusercontent.com/79700810/154107262-66804abe-bc47-4146-878a-a1d980c44b88.png)
-
-Выбираем обьем который будет размечен на диски 
+Соглашаемся с тем что диск будет отфарматирован и на нем будут созданы все необходимые партиции
+ 
 
 ![image](https://user-images.githubusercontent.com/79700810/154107299-c819ec90-c165-447e-af2c-8880a35017f9.png)
+Выбираем обьем который будет размечен на диски
+
+
+![image](https://user-images.githubusercontent.com/79700810/154107329-52bac7f6-d392-42dc-b96c-278ec7b6f485.png)
 
 Проверяем и соглашаемся с тем что будут созданные данные партиции на диски
 
-![image](https://user-images.githubusercontent.com/79700810/154107329-52bac7f6-d392-42dc-b96c-278ec7b6f485.png)
 ![image](https://user-images.githubusercontent.com/79700810/154107373-94eac8d9-b72e-42da-9c5e-a06246125997.png)
 ![image](https://user-images.githubusercontent.com/79700810/154107402-9bca2c36-e951-4291-a9d3-76fdfa47a9bf.png)
 
