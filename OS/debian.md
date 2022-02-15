@@ -2,16 +2,17 @@
 # [Download](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/ )
 
 Взависимости от разных задачь могут потребоваться разные дестрибутивы
+
 ![image](https://user-images.githubusercontent.com/79700810/154106828-ed1fe923-ddca-4675-9b36-337df84f3c93.png)
 
 ![image](https://user-images.githubusercontent.com/79700810/154132523-1a1355ba-96ae-41c8-b065-fdf536c2f787.png)
 
-Выбираем язык операционный системы
+При включении виртуальный машины выбираем install 
 
 ![image](https://user-images.githubusercontent.com/79700810/154106534-58632cba-d085-4dff-8f13-1d15d48fc7d9.png)
 
+Выбираем язык операционный системы
 
-?????
 ![image](https://user-images.githubusercontent.com/79700810/154106564-17c27743-0287-4e90-9129-d688ba6f1f21.png)
 
 Выбираем раскладку
