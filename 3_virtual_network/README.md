@@ -43,10 +43,15 @@
 ![image](https://user-images.githubusercontent.com/79700810/154063180-4ff1ce40-8e73-4be0-bdd8-6cc24309976a.png)
 
 ## Порт группа
-для подключения к виртуальным машинам standard virtual (vSW1) необходимо создать Port groups - > Add port groups
+для подключения к виртуальным машинам standard virtual (vSW1) необходимо создать Networking - > Port groups - > Add port groups
 
 ![image](https://user-images.githubusercontent.com/79700810/154063942-9566bf69-f968-4809-898d-8fd9aaa7b395.png)
 
 переходим в PG1 и видим что созданна группа которая не привязанна к физическому линку и не имеет доступа во внешнию сеть
 
 ![image](https://user-images.githubusercontent.com/79700810/154064820-971093fd-6eeb-4aa0-a376-a6fbeb770cf4.png)
+
+также в случае необходимости можно переиминовать порт группу Networking - > Port groups - > Edit settings
+
+![image](https://user-images.githubusercontent.com/79700810/154096014-858cc127-a442-4a8e-9efb-15e8da5a6cda.png)
+
