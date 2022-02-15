@@ -69,18 +69,21 @@
 
 
 ![image](https://user-images.githubusercontent.com/79700810/154107262-66804abe-bc47-4146-878a-a1d980c44b88.png)
+
+оставляем выделение места для разметки патиций по умалчанию
+
+![image](https://user-images.githubusercontent.com/79700810/154107299-c819ec90-c165-447e-af2c-8880a35017f9.png)
 Соглашаемся с тем что диск будет отфарматирован и на нем будут созданы все необходимые партиции
  
 
-![image](https://user-images.githubusercontent.com/79700810/154107299-c819ec90-c165-447e-af2c-8880a35017f9.png)
+
+![image](https://user-images.githubusercontent.com/79700810/154107329-52bac7f6-d392-42dc-b96c-278ec7b6f485.png)
 Выбираем обьем который будет размечен на диски
 
 
-![image](https://user-images.githubusercontent.com/79700810/154107329-52bac7f6-d392-42dc-b96c-278ec7b6f485.png)
-
+![image](https://user-images.githubusercontent.com/79700810/154107373-94eac8d9-b72e-42da-9c5e-a06246125997.png)
 Проверяем и соглашаемся с тем что будут созданные данные партиции на диски
 
-![image](https://user-images.githubusercontent.com/79700810/154107373-94eac8d9-b72e-42da-9c5e-a06246125997.png)
 ![image](https://user-images.githubusercontent.com/79700810/154107402-9bca2c36-e951-4291-a9d3-76fdfa47a9bf.png)
 
 
