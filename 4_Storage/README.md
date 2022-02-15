@@ -21,18 +21,33 @@
 
 Автоматическое освоение пространства
 
+## Создание datastore 
+Для развертывания виртуальных машин необходима система хранения данных
+одним из таких вариантов может быть локальное хранилице 
+переходим на вкладку Storage - > New datastore - > Create new VFMS datastore
+
 ![image](https://user-images.githubusercontent.com/79700810/154065528-eabb8c27-f614-4be9-9daf-44f11f1cb9b3.png)
 
-
+Задаем имя хранилища данных и выбираем диск на котором будут распологаться все виртуальные машины
 
 ![image](https://user-images.githubusercontent.com/79700810/154067078-0c1c6292-6158-4d52-b32e-1a3a651c504c.png)
 
+Указываем тип и колличество места которое будет размечено для хранения
 
 ![image](https://user-images.githubusercontent.com/79700810/154067115-8232805a-d8dd-41bb-9bf5-16a959f0f316.png)
 
+Проверяем конфигурацию после чего ESXi предложит отформатировать все место
+
 ![image](https://user-images.githubusercontent.com/79700810/154067151-b03a8fe5-fde6-4eda-b828-f239f4b883de.png)
 
+## Загрузка на datastore 
+Одним из вариантов хранения iso файлов для установки операционных систем на виртуальные машине может являтся хранения на локальном datastore
+
+после форматирования переходим на datastore с именем DATA -> Datastore browser - > Create directory и задем имя деректории
+
 ![image](https://user-images.githubusercontent.com/79700810/154067176-ac72253e-df9b-459b-be2b-5a3c0e8c4c1f.png)
+
+переходим в деректорию затем upload после чего выбираем зарание скаченный iso файл
 
 ![image](https://user-images.githubusercontent.com/79700810/154091199-8dc48b76-1258-424d-8047-7e4750962c42.png)
 
