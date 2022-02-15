@@ -26,6 +26,11 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154065528-eabb8c27-f614-4be9-9daf-44f11f1cb9b3.png)
 
+Обзор базового хранилища
+
+![image](https://user-images.githubusercontent.com/79700810/154124703-dc1d7c9f-9b7d-4b15-a4ee-5633e95c377e.png)
+
+
 ## Создание datastore 
 Для развертывания виртуальных машин необходима система хранения данных
 одним из таких вариантов может быть локальное хранилице 
