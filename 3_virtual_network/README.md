@@ -28,7 +28,7 @@
 
 
 ## Стандарт свитч
-### [doc](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-350344DE-483A-42ED-B0E2-C811EE927D59.html)
+### [Документация](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-350344DE-483A-42ED-B0E2-C811EE927D59.html)
 
 Ключевой компонент виртуальной сетевой инфраструктуры vSphere - vSwitch, виртуальный L2 коммутатор.
 
@@ -38,5 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154063180-4ff1ce40-8e73-4be0-bdd8-6cc24309976a.png)
 
+для подключения к виртуальным машинам standard virtual (vSW1) необходимо создать Port groups - > Add port groups
 
 
+![image](https://user-images.githubusercontent.com/79700810/154063942-9566bf69-f968-4809-898d-8fd9aaa7b395.png)
