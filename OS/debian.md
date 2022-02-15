@@ -34,23 +34,23 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154106982-e2aad7ad-7b44-49bd-81dc-86e2b476908c.png)
 
-можно создать допалнительного пользователя без прав root
+Создаем пользоватемя и можем указать его полное имя для описания
 
 ![image](https://user-images.githubusercontent.com/79700810/154107000-d3be36e0-9ec5-4ec1-85f6-5f306dbbdba5.png)
 
-Задаем пароль для пользователя
+Задаем имя пользователья
 
 ![image](https://user-images.githubusercontent.com/79700810/154107044-54dc2d23-51de-4df0-bb9f-bdd81127bde6.png)
 
-далее его необходимо подтвердить и ввести второй раз
+Задаем пароль для пользователя
 
 ![image](https://user-images.githubusercontent.com/79700810/154107074-2e36a29e-6a26-4dd4-8234-d721b8572982.png)
+далее его необходимо подтвердить и ввести второй раз
 
-Выбираем време
 
 ![image](https://user-images.githubusercontent.com/79700810/154107102-4bf34a6f-7cca-413a-89a5-a8424a5ffe43.png)
 
-???
+Выбираем време
 
 ![image](https://user-images.githubusercontent.com/79700810/154107134-2b296dbf-db82-44f6-a088-2703e0df9b55.png)
 
