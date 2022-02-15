@@ -58,9 +58,11 @@ Thin или Thick:
 
 выбираем ios файл который будет смантиррован для установки операционной системы в разделе cd/dvd drive 1 -> Datastore ISO file
 
+находим деректорию куда мы ранее загрузили iso - > select
+
 ![image](https://user-images.githubusercontent.com/79700810/154099322-7fa14373-1cbb-4a0a-9282-99b03968de0d.png)
 
-находим деректорию куда мы ранее загрузили iso - > select
+после чего вам придоставят возможность ознакомится со всеми выбранами парамитрами
 
 ![image](https://user-images.githubusercontent.com/79700810/154099363-23cd0551-c0c3-47ca-abf2-d3fd165a977a.png)
 
