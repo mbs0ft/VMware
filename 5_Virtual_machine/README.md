@@ -17,13 +17,20 @@ VMware Tools улучшает производительность и управ
 ![image](https://user-images.githubusercontent.com/79700810/154098805-fc4bee7a-b629-47f5-b0c0-4e44d90bad9a.png)
 
 ## Создание VM
-Virtual Machines - > Create / Register VM
+
+Для создания виртуальной машины переходим в Virtual Machines - > Create / Register VM - > Create a new Virtual Machines
 
 ![image](https://user-images.githubusercontent.com/79700810/154099037-9231adee-40d1-4a2c-b2bf-b589f03c357f.png)
 
+Задаем имя виртуальной машины и выбираем семейстов и версию операционной системы которая будет установлина
+Важно: если выбрать не то семейство или тип большая вироятность того что виртуальная машина не сможет установить опирационную систему или будет работать не корректно
+
 ![image](https://user-images.githubusercontent.com/79700810/154099156-b86a2280-9925-4397-825b-b0241c6d4ae8.png)
 
+Выбирае систему хранения данных которую мы создали на предыдущем этапе 
+
 ![image](https://user-images.githubusercontent.com/79700810/154099189-396f6b29-7272-45c5-aad8-17d5a84b0ec3.png)
+
 
 ![image](https://user-images.githubusercontent.com/79700810/154099232-969ba65f-1d85-447a-ac73-710fabddf2ee.png)
 
