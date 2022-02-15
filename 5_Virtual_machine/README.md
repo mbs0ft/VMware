@@ -34,5 +34,5 @@ Virtual Machines - > Create / Register VM
 ![image](https://user-images.githubusercontent.com/79700810/154099363-23cd0551-c0c3-47ca-abf2-d3fd165a977a.png)
 
 
-## VMware Tools
+## Install OS
 
