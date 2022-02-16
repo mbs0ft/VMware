@@ -124,5 +124,13 @@ VMXNET3 доступен только с VMware Tools
 ## Установка VMware Tools
 
 VMware Tools - это набор утилит, который вы устанавливаете в операционной системе виртуальной машины. 
+
 VMware Tools улучшает производительность и управление виртуальной машиной.
+
+При наличии интернета в сегменте сети можно использовать команду 
+
+```debian
+apt install open-vm-tools -y
+```
+![image](https://user-images.githubusercontent.com/79700810/154221555-4c84dfbd-d2f8-4a00-9f0e-926ecc722ea1.png)
 
