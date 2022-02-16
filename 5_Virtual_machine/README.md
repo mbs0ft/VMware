@@ -117,6 +117,7 @@ VMXNET3 доступен только с VMware Tools
 
 после установки перезагружаем загрузиться утановленная операционная система 
 
+
 ![image](https://user-images.githubusercontent.com/79700810/154220909-acd0b987-61f5-497a-a87a-f6bbafd4d440.png)
 
 
