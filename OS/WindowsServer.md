@@ -34,3 +34,7 @@ Windows Server включает в себя два выпуска Standard и Da
 После этапа установки система автоматически перезагрузиться через 10 секунд
 
 ![image](https://user-images.githubusercontent.com/79700810/154102810-b2acadfe-4172-4b1f-aa37-2313a1619d39.png)
+
+После загрузки необходимо упазать пароль от Администратора
+
+![image](https://user-images.githubusercontent.com/79700810/154222801-26c9046c-015d-4518-afd3-972c88211675.png)
