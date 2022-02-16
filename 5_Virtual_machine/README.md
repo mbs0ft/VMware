@@ -99,5 +99,21 @@ VMXNET3 доступен только с VMware Tools
 ![image](https://user-images.githubusercontent.com/79700810/154099363-23cd0551-c0c3-47ca-abf2-d3fd165a977a.png)
 
 
-## Install OS
+## Установка операционной системы
+
+[Установка Windows 10](https://github.com/storm39mad/VMware/blob/main/OS/WindowsCLI.md )
+[Установка Windows Server](https://github.com/storm39mad/VMware/blob/main/OS/WindowsServer.md )
+[Установка CentOS](https://github.com/storm39mad/VMware/blob/main/OS/centOS.md )
+[Установка Debian](https://github.com/storm39mad/VMware/blob/main/OS/debian.md )
+[Установка Ubuntu](https://github.com/storm39mad/VMware/blob/main/OS/ubuntu.md )
+
+В данном примере будет использоваться дистрибудтив Debian в качестве операционной системы устанавливаемой на виртуальную машину 
+
+После создания виртуальной машины ее необходимо включить VM1 - > Power on
+
+![image](https://user-images.githubusercontent.com/79700810/154217570-692f1dbb-90af-4b6a-845d-81019a336254.png)
+
+после включения откроется консоль управления и можно приступить к этапу установки операционной системы 
+
+![image](https://user-images.githubusercontent.com/79700810/154217776-0e6a315d-82a4-4c98-bfe6-2e78a1a62930.png)
 
