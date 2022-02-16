@@ -95,17 +95,17 @@
 Хотители у вас допалнительное зерколо при намичии интернета в сигменте сити выбираем да что бы оно добавилось  
 ![image](https://user-images.githubusercontent.com/79700810/154139180-d8bd6738-20d4-4bd5-aaa4-1c6f7af29fc9.png)
 
-
+Отправлять статистику об используемых пакетов выбираем нет 
 ![image](https://user-images.githubusercontent.com/79700810/154139290-d8eccfd3-7946-4b2d-ae1c-cf3e2fb0b22b.png)
 
 для минимального набора работы и быстрой установки выбираем набор 
 ![image](https://user-images.githubusercontent.com/79700810/154139354-5ed62e5c-9c44-45d0-871d-2a20880f1a08.png)
 
-Отправлять статистику об используемых пакетов выбираем нет 
+Установка GRUB загрузчика 
 ![image](https://user-images.githubusercontent.com/79700810/154139546-5590aecc-ec3d-4b6a-9c89-fc12f223fd10.png)
 
 
-
+Выбор диска на который будет установлен GRUB загрузчик 
 ![image](https://user-images.githubusercontent.com/79700810/154139588-22db802c-35bf-49f8-aa0c-2157c89bfe93.png)
 
 По оканчении установки необходимо перезагрузить операционную систему
