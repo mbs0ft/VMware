@@ -1,6 +1,6 @@
 # Debian
 # [Download](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/ )
-
+## Установка ос выполнена в сегменте сети с выходом в интернет и DHCP серевером
 Взависимости от разных задачь могут потребоваться разные дестрибутивы
 
 ![image](https://user-images.githubusercontent.com/79700810/154106828-ed1fe923-ddca-4675-9b36-337df84f3c93.png)
