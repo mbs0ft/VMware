@@ -1,6 +1,6 @@
 # CentOS
 # [Download](https://www.centos.org/download/ )
-
+## Установка ос выполнена в сегменте сети с выходом в интернет и DHCP серевером
 Взависимости от разных задачь могут потребоваться разные дестрибутивы 
 
 ![image](https://user-images.githubusercontent.com/79700810/154103402-1f8fb434-7560-4956-8e48-100375c319e2.png)
