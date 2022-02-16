@@ -1,5 +1,7 @@
 # VMware
 
+Данный курс предназначен для тех кто в первые знакомится с VMware и гипервизором ESXi
+
 ## [Тема 1 Установка](https://github.com/storm39mad/VMware/tree/main/1_install)
 ### Цель
 1) Регистрация на аккауна my VMware
