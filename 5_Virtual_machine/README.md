@@ -132,5 +132,9 @@ VMware Tools улучшает производительность и управ
 ```debian
 apt install open-vm-tools -y
 ```
+
 ![image](https://user-images.githubusercontent.com/79700810/154221555-4c84dfbd-d2f8-4a00-9f0e-926ecc722ea1.png)
 
+После установки VMware Tools можно перейти на Virtual Machines - > VM1 где будет отображаться статистика 
+
+![image](https://user-images.githubusercontent.com/79700810/154224384-729e2b05-a581-407f-839b-9bb93b407384.png)
