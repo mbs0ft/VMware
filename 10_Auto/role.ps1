@@ -1,28 +1,22 @@
-﻿#connect vcsa
-$namevcsa = "172.30.77.131"
-Connect-VIServer $namevcsa -Force
+﻿
+Write-Host "Connect ESXi" (Get-date) -ForegroundColor Green
+$ESXiHost = "172.30.77.131"
+$User = "root"
+$PWord = 'Pa$$w0rd' | ConvertTo-SecureString -AsPlainText -Force
 
+$Cred= New-Object System.Management.Automation.PSCredential -ArgumentList $User, $PWord
 
+Connect-VIServer –Server $ESXiHost -Credential $Cred -Force
 
-New-VMHostAccount -ID WSR -Password "Pa$$w0rd" -UserAccount
-
+##########
+##Create user
+$PWuser = 'Pa$$w0rd' 
+New-VMHostAccount -ID WSR -Password $PWuser -UserAccount
+##Add Permission ESXi host Readonly
 New-VIPermission -Role Readonly  -Principal "WSR" -Entity (Get-Folder -NoRecursion) 
-
-
-
-
-New-VIRole -Name CompetitorWSR -Privilege (Get-VIPrivilege -id System,Datastore,VirtualMachine,VirtualMachine.Inventory,VirtualMachine.Interact,VirtualMachine.GuestOperations,VirtualMachine.Config,VirtualMachine.State,VirtualMachine.Hbr,VirtualMachine.Provisioning,VirtualMachine.Namespace)
-
+##Create role Competitor allow System, Datastore, VirtualMachine
+New-VIRole -Name CompetitorWSR -Privilege (Get-VIPrivilege -PrivilegeGroup)
+##Add Permission to VM
 $principal = get-VMHostAccount -id WSR
 $role = Get-VIRole -Name "CompetitorWSR"
-
 Get-VM -Name SRV, CLI, WEB-L, WEB-R, RTR-L,RTR-R, ISP | New-VIPermission -Role $role -Principal $principal -Propagate $false
-
-
-
-
-
-#disconect vcsa
-
-Disconnect-VIServer $namevcsa -Force
-

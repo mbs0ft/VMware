@@ -90,3 +90,22 @@ data "vsphere_network" "network_pg_isp_cli" {
   datacenter_id = data.vsphere_datacenter.datacenter.id
 }
 
+resource "null_resource" "PowerShellScriptRunAlways" {
+depends_on = [
+  vsphere_virtual_machine.ISP,
+  vsphere_virtual_machine.CLI,
+  vsphere_virtual_machine.RTR-L,
+  vsphere_virtual_machine.RTR-R,
+  vsphere_virtual_machine.SRV,
+  vsphere_virtual_machine.WEB-L,
+  vsphere_virtual_machine.WEB-R
+
+]
+  provisioner "local-exec" {
+   
+        
+         command  = "D:\\VMware\\VMware\\10_Auto\\role.ps1"
+        interpreter = ["PowerShell"]
+
+  }
+}
