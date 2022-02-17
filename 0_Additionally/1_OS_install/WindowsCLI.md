@@ -61,6 +61,16 @@
 
 ![image](https://user-images.githubusercontent.com/79700810/154456407-fce1b0b4-44ef-446c-9fdc-b99755922930.png)
 
+Отпрваление статистики 
+
 ![image](https://user-images.githubusercontent.com/79700810/154456521-47992aa9-bbf6-4d79-b4be-6e91a235a87d.png)
+
+Дополнительна конфигурация приложеней 
+
+![image](https://user-images.githubusercontent.com/79700810/154457156-edcda52e-fe20-4a82-b7aa-826d87c4164a.png)
+
+Настройка приватности операционной системы 
+
+![image](https://user-images.githubusercontent.com/79700810/154457289-226095b0-a7ef-43e1-b602-1dcf87a819d2.png)
 
 
