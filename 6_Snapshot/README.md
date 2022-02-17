@@ -51,7 +51,7 @@ Virtual Machines - > VM1 - > правой кнопкой
 
 ![image](https://user-images.githubusercontent.com/79700810/154449146-8d4d9a07-b271-46e7-bce6-611898c7e82f.png)
 
-Snapshot_memory - > Restore snapsho
+Snapshot_memory - > Restore snapshot
 
 ![image](https://user-images.githubusercontent.com/79700810/154449377-853b9450-5978-48e9-8ef6-fb469abdf869.png)
 
@@ -68,7 +68,7 @@ Virtual Machines - > VM1 - > правой кнопкой
 
 ![image](https://user-images.githubusercontent.com/79700810/154449146-8d4d9a07-b271-46e7-bce6-611898c7e82f.png)
 
-Snapshot_no_memory - > Restore snapsho
+Snapshot_no_memory - > Restore snapshot
 
 ![image](https://user-images.githubusercontent.com/79700810/154449838-4053b2b5-9102-4ab0-8adf-dcce789a78e5.png)
 
@@ -86,4 +86,16 @@ Virtual Machines - > Power on
 
 
 ## Удаление Моминтальных снимков
+
+![image](https://user-images.githubusercontent.com/79700810/154451055-6b291d25-5434-44cd-bf6c-4bc4638af6b5.png)
+
+Snapshot_memory - > Delete snapshot
+
+![image](https://user-images.githubusercontent.com/79700810/154451199-4f5be149-dc4c-4108-8ee2-a787e7fb28fb.png)
+
+![image](https://user-images.githubusercontent.com/79700810/154451418-5b5d3742-92e3-4b61-b4a1-20564533acf4.png)
+
+![image](https://user-images.githubusercontent.com/79700810/154451456-95f0207e-2ea3-4787-9def-0884b6d9481a.png)
+
+
 
