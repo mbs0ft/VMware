@@ -132,6 +132,7 @@ VMware Tools - это набор утилит, который вы устана�
 VMware Tools улучшает производительность и управление виртуальной машиной.
 
 [Установка на Linux](https://github.com/storm39mad/VMware/tree/main/0_Additionally/2_VMware_Tools_install )
+
 [Установка на Windows](https://github.com/storm39mad/VMware/blob/main/0_Additionally/2_VMware_Tools_install/Windows.md)
 
 
