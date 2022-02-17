@@ -76,7 +76,14 @@ Snapshot_no_memory - > Restore snapsho
 
 ![image](https://user-images.githubusercontent.com/79700810/154449984-5ed3452f-016f-457d-b9f8-770afaf6b22c.png)
 
-s
+Virtual Machines - > Power on
+
+![image](https://user-images.githubusercontent.com/79700810/154450490-7bd8d293-c764-4c5c-a696-98d87a943527.png)
+
+У нас остался файлик на момент создания снимка
+
+![image](https://user-images.githubusercontent.com/79700810/154450819-a5a0b3b5-d3d1-4d21-a9f9-4a9e7f07860a.png)
+
 
 ## Удаление Моминтальных снимков
 
