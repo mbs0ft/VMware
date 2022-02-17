@@ -28,3 +28,39 @@
 После этапа установки система автоматически перезагрузиться через 10 секунд
 
 ![image](https://user-images.githubusercontent.com/79700810/154101365-9fb61a2e-9d2a-4d37-a066-1582d1cec224.png)
+
+необходимо выбрать регион
+
+![image](https://user-images.githubusercontent.com/79700810/154455328-7cfb588e-1472-4b6d-a664-b52a41609314.png)
+
+выбраит язык раскладки
+
+![image](https://user-images.githubusercontent.com/79700810/154455441-f6550d7b-73dd-4ce2-8c1e-1084e12e0a66.png)
+
+добавление допалнительного языка раскладки 
+
+![image](https://user-images.githubusercontent.com/79700810/154455511-4561908f-8d10-47af-a46b-ef94431deddc.png)
+
+идет процес обнаружения сети ести в вашем сегменте нет DHCP и выхода в интернет система вам предложет сконфигурировать или продолжить и сконфигурировать позже 
+
+![image](https://user-images.githubusercontent.com/79700810/154455762-60c1d6c4-e7fe-4df1-bdcb-a45d0dbc6595.png)
+
+Задасть имя учетной записи
+
+![image](https://user-images.githubusercontent.com/79700810/154455936-7460030c-06a2-41bd-9dd5-1c451f36e046.png)
+
+Задать пароль 
+
+![image](https://user-images.githubusercontent.com/79700810/154456122-cea21037-1535-44cc-854d-d0174d59af86.png)
+
+Поддтвердить
+
+![image](https://user-images.githubusercontent.com/79700810/154456188-f79d0878-3b74-425e-9ada-32c588cdb384.png)
+
+Вабрать три вопоса и задать ответы для востановления паролся данный этап может различаться в разных дестребутивах
+
+![image](https://user-images.githubusercontent.com/79700810/154456407-fce1b0b4-44ef-446c-9fdc-b99755922930.png)
+
+![image](https://user-images.githubusercontent.com/79700810/154456521-47992aa9-bbf6-4d79-b4be-6e91a235a87d.png)
+
+
