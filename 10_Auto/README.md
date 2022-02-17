@@ -5,6 +5,11 @@
 1) Создание стенда ДЭ средствами автоматизации terraform и powercli
 
 ## Установка плагинов
+```powershell
+powershell Start-Process powershell -Verb runAs
+```
+
+![image](https://user-images.githubusercontent.com/79700810/154459071-660b7527-0e1c-498b-bcdc-8d4ef30e71de.png)
 
 ## Установка Chocolatey 
 
