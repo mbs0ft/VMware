@@ -30,5 +30,6 @@ choco install vscode
 ```
 ## Установка powercli
 ```powershell
-choco install vmware-powercli-psmodule --force
+choco install vmware-powercli-psmodule
+Set-PowerCLIConfiguration -Scope AllUsers -ParticipateInCeip $false
 ```
