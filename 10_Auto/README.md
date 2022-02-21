@@ -4,6 +4,10 @@
 # Цель
 1) Создание стенда ДЭ средствами автоматизации terraform и powercli
 
+## Перед началом
+
+![image](https://user-images.githubusercontent.com/79700810/154932749-20c23019-5231-47c8-8d1f-7c8c71226eff.png)
+
 ## Установка плагинов
 ```powershell
 powershell Start-Process powershell -Verb runAs
