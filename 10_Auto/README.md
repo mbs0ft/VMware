@@ -59,3 +59,6 @@ git clone https://github.com/storm39mad/VMware.git
 
 ![image](https://user-images.githubusercontent.com/79700810/154931110-a9b89500-66b0-47d1-8728-1d11505b7778.png)
 
+![image](https://user-images.githubusercontent.com/79700810/154931415-d82c4fab-4dd7-46f0-9b1e-299210d22963.png)
+
+![image](https://user-images.githubusercontent.com/79700810/154931547-b93395ed-139e-4e27-af4a-01bccfd2a25f.png)
