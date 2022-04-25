@@ -94,4 +94,5 @@ ESXi применяет требования к паролю для доступ
 ![image](https://user-images.githubusercontent.com/79700810/154025506-15b402bd-2daf-452f-bc0d-19422776a02c.png)
 
 
+
 [Следующая часть ->](2_network_configuration/README.md)
